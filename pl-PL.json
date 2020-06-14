@@ -1,0 +1,68 @@
+{
+    "datepicker": {
+        "toggleCalendar": "Alternatywny kalendarz"
+    },
+    "calendar": {
+        "today": "Dzisiaj"
+    },
+    "dateinput": {
+        "increment": "zwiększ wartość",
+        "decrement": "zmniejsz wartość"
+    },
+    "datetimepicker": {
+        "date": "Data",
+        "time": "Czas",
+        "cancel": "Anuluj",
+        "set": "Ustaw"
+    },
+    "numerictextbox": {
+        "increment": "zwiększ wartość ",
+        "decrement": "zmniejsz wartość"
+    },
+    "timepicker": {
+        "now": "TERAZ",
+        "set": "Ustaw",
+        "cancel": "Anuluj"
+    },
+    "grid": {
+        "groupPanelEmpty": "Przeciągnij tytuł kolumny i upuść go tutaj, aby pogrupować według tego kryterium.",
+        "noRecords": "Brak danych.",
+        "pagerFirstPage": "Przejdź do pierwszej strony",
+        "pagerPreviousPage": "Przejdź do poprzedniej strony",
+        "pagerNextPage": "Przejdź do następnej strony",
+        "pagerLastPage": "Przejdź do ostatniej strony",
+        "pagerPage": "Strona",
+        "pagerOf": "z",
+        "pagerItems": "pozycjami",
+        "pagerInfo": "{0} - {1} z {2} pozycji",
+        "pagerItemsPerPage": "pozycji na stronie",
+        "filterEqOperator": "Równa się",
+        "filterNotEqOperator": "Nie równa się",
+        "filterIsNullOperator": "Jest zerowy",
+        "filterIsNotNullOperator": "Nie jest zerowy",
+        "filterIsEmptyOperator": "Jest pusty",
+        "filterIsNotEmptyOperator": "Nie jest pusty",
+        "filterStartsWithOperator": "Zaczyna się od",
+        "filterContainsOperator": "Zawiera",
+        "filterNotContainsOperator": "Nie zawiera",
+        "filterEndsWithOperator": "Kończy się na",
+        "filterGteOperator": "Większe niż lub równe",
+        "filterGtOperator": "Większe niż",
+        "filterLteOperator": "Mniejsze niż lub równe",
+        "filterLtOperator": "Mniejsze niż",
+        "filterIsTrue": "Tak",
+        "filterIsFalse": "Nie",
+        "filterBooleanAll": "(Dowolne)",
+        "filterAfterOrEqualOperator": "Taka sama lub późniejsza",
+        "filterAfterOperator": "Po",
+        "filterBeforeOperator": "Przed",
+        "filterBeforeOrEqualOperator": "Taka sama lub wcześniejsza",
+        "filterSubmitButton": "Filtruj",
+        "filterClearButton": "Wyczyść",
+        "filterAndLogic": "I",
+        "filterOrLogic": "LUB",
+        "filterTitle": "Filtr",
+        "sortAscending": "Rosnąco",
+        "sortDescending": "Malejąco"
+    }
+}
